@@ -20,13 +20,11 @@ This is an Android weather application that retrieves and displays weather data 
 - **RecyclerView integration** for hourly and daily forecasts.  
 - **Weather icons** dynamically fetched and displayed.  
 - **Graphing library** used to display temperature trends.  
-- **View binding** used for efficient UI handling (no `findViewById`).  
 
 ✅ **Additional Functionalities**  
 - **Toggle between Fahrenheit (°F) and Celsius (°C).**  
 - **Share weather details** via other apps.  
 - **Connectivity check** to handle network failures.  
-- **Swipe-to-refresh** feature (Extra Credit).  
 
 ## Tech Stack 🛠️  
 - **Android Studio** (Java/Kotlin)  
@@ -58,6 +56,10 @@ This is an Android weather application that retrieves and displays weather data 
   
 ![Screenshot 2025-03-11 112119](https://github.com/user-attachments/assets/fc89f4a8-951b-406b-bec5-b3e6afbf04d9)
 ![Screenshot 2025-03-11 112107](https://github.com/user-attachments/assets/2eb48ef3-6d3e-4dda-996f-baadb58c4d66)
+
+   ### Temperature-Based Color Changing Backgrounds
+
+![Screenshot 2025-03-11 112843](https://github.com/user-attachments/assets/fd4b085b-b56f-4b6b-a449-117a0c763ea8)
 
 
 ## License 📜  
