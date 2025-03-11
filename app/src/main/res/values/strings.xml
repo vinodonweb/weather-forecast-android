@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">assignmentFinal</string>
+    <string name="map">map</string>
+    <string name="target">target</string>
+    <string name="share">share</string>
+    <string name="fera">fera</string>
+    <string name="daily">daily</string>
+    <string name="search">search</string>
+    <string name="location">location</string>
+</resources>
